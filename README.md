@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-### I'm a designer and legendary JavaScript shinobi, and here are two things you should know:
+### I'm a Graphics and Brand Identity Designer turned Web and Blockchain developer:
 
 1. I share the same name with a programming language (Idris).
 2. People who use light-themed IDEs are not true programmers. 🌚
@@ -8,7 +8,7 @@
 
 Here's what I'll be doing for the coming months:
 
-1. Learning to work with React, Tailwind CSS, TypeScript, Go, Solidity, Python, etc.
+1. Learning to work with React, Tailwind CSS, TypeScript, Go, Solidity, Python, Rust etc.
 2. Building my first Dapp.
 3. Creating my first VS Code extension.
 4. Working on a handful of unique project ideas.

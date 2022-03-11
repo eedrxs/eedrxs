@@ -1,6 +1,6 @@
 ### Greetings! 👋
 
-### I'm a Graphics and Brand Identity Designer turned Web and Blockchain developer:
+### I'm a Fullstack Web and Blockchain developer:
 
 1. I share the same name with a programming language (Idris).
 2. People who use light-themed IDEs are not true programmers. 🌚

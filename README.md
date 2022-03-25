@@ -1,4 +1,4 @@
-### Greetings! 👋
+### Hi, there! 👋
 
 ### I'm a Fullstack Web and Blockchain developer:
 
@@ -15,7 +15,7 @@ Here's what I'll be doing for the coming months:
 5. And most importantly, graduating! 😁
 
 <!--
-**theBardBoy/theBardBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eedrxs/eedrxs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
